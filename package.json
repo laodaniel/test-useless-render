@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "bad": "parcel bad.html",
+    "good": "parcel good.html"
+  },
+  "dependencies": {
+    "parcel": "^1.10.3",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "why-did-you-update": "^1.0.6"
+  }
+}
